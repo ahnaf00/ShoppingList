@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 800px;
+}
+
+.container .navBox{
+    height: 100px;
+    width: 100%;
+    background-color: #92b9f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* li.fa.fa-edit, li.fa.fa-trash{
+    cursor: pointer;
+}
+li.fa.fa-edit{
+    color: rgb(8, 200, 8);
+}
+li.fa.fa-trash{
+    color: red;
+} */
+
