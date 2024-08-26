@@ -1,0 +1,3 @@
+``
+The project is a simple Shopping List CRUD Application built with HTML, CSS, Bootstrap, JavaScript, and local storage. The app allows users to manage a shopping list by performing CRUD (Create, Read, Update, Delete) operations on products. Users can add new products with a name and price, edit existing products, and delete products from the list. The products are stored in the browser's local storage, ensuring data persistence across sessions. The application dynamically updates the user interface using JavaScript, providing real-time feedback and interaction capabilities. The application also includes a filter feature to search for products by name.
+``
